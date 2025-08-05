@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Pump Feed</title>
+    <link>https://daily-pump.vercel.app/</link>
+    <description>Daily pump stock updates with price and type</description>
+    
+    <item>
+      <title>$TEST1 – Low float runner</title>
+      <link>https://www.tradingview.com/symbols/TEST1/</link>
+      <description>Price: 1.23 | Type: Reddit Mention</description>
+    </item>
+
+    <item>
+      <title>$TEST2 – VWAP breakout</title>
+      <link>https://www.tradingview.com/symbols/TEST2/</link>
+      <description>Price: 4.56 | Type: Technical Breakout</description>
+    </item>
+
+    <item>
+      <title>$TEST3 – Gap up with volume</title>
+      <link>https://www.tradingview.com/symbols/TEST3/</link>
+      <description>Price: 2.78 | Type: Reddit Mention</description>
+    </item>
+
+  </channel>
+</rss>
