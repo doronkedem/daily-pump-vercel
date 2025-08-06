@@ -1,26 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daily Pump Feed</title>
     <link>https://daily-pump.vercel.app/</link>
     <description>Daily pump stock updates with price and type</description>
-    
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Aug 2025 14:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+
     <item>
-      <title>$TEST1 – Low float runner</title>
-      <link>https://www.tradingview.com/symbols/TEST1/</link>
-      <description>Price: 1.23 | Type: Reddit Mention</description>
+      <title>$ABC – Low float runner</title>
+      <link>https://www.tradingview.com/symbols/ABC/</link>
+      <description><![CDATA[Price: 3.45 | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 13:55:00 +0000</pubDate>
+      <guid isPermaLink="false">abc-1691300000</guid>
     </item>
 
     <item>
-      <title>$TEST2 – VWAP breakout</title>
-      <link>https://www.tradingview.com/symbols/TEST2/</link>
-      <description>Price: 4.56 | Type: Technical Breakout</description>
+      <title>$XYZ – VWAP breakout</title>
+      <link>https://www.tradingview.com/symbols/XYZ/</link>
+      <description><![CDATA[Price: 7.89 | Type: Technical Breakout]]></description>
+      <pubDate>Wed, 06 Aug 2025 13:50:00 +0000</pubDate>
+      <guid isPermaLink="false">xyz-1691299800</guid>
     </item>
 
     <item>
-      <title>$TEST3 – Gap up with volume</title>
-      <link>https://www.tradingview.com/symbols/TEST3/</link>
-      <description>Price: 2.78 | Type: Reddit Mention</description>
+      <title>$LMN – Gap up with volume</title>
+      <link>https://www.tradingview.com/symbols/LMN/</link>
+      <description><![CDATA[Price: 12.34 | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 13:45:00 +0000</pubDate>
+      <guid isPermaLink="false">lmn-1691299600</guid>
     </item>
 
   </channel>
